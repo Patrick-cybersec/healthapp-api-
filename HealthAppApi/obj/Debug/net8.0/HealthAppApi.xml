@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HealthAppApi</name>
+    </assembly>
+    <members>
+        <member name="T:HealthAppApi.Migrations.InitialCreate">
+            <inheritdoc />
+        </member>
+        <member name="M:HealthAppApi.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:HealthAppApi.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:HealthAppApi.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:HealthAppApi.Migrations.AddFcmTokenToUsers">
+            <inheritdoc />
+        </member>
+        <member name="M:HealthAppApi.Migrations.AddFcmTokenToUsers.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:HealthAppApi.Migrations.AddFcmTokenToUsers.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:HealthAppApi.Migrations.AddFcmTokenToUsers.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
