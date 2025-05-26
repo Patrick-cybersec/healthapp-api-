@@ -28,5 +28,8 @@
         <member name="M:HealthAppApi.Migrations.AddFcmTokenToUsers.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
             <inheritdoc />
         </member>
+        <member name="M:HealthAppApi.Migrations.SyncExercisesTable.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
     </members>
 </doc>
